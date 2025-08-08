@@ -1,0 +1,24 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "description": "Practice project",
+  "keywords": [
+    "practice",
+    "git"
+  ],
+  "homepage": "https://github.com/Mathew2223/git-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Mathew2223/git-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathew2223/git-practice.git"
+  },
+  "license": "ISC",
+  "author": "Sitnikov Mathew",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
